@@ -1,0 +1,36 @@
+{
+	"name": "Elementor Expert Activation",
+	"slug": "elementor-expert-activation",
+	"version": "1.0.2",
+	"author": "#",
+	"author_profile": "#",
+	"contributors": {
+		"DIKATSEO": {
+			"profile": "andikategar@hotmail.com",
+			"avatar": "https://avatars.githubusercontent.com/u/85822032?v=4",
+			"display_name": "DIKAT SEO"
+		}
+	},
+	"requires": "5.0",
+	"tested": "5.9.2",
+	"compatibility": {},
+	"rating": 0,
+	"num_ratings": "0",
+	"ratings": {},
+	"downloaded": 0,
+	"last_updated": "",
+	"added": "",
+	"homepage": "#",
+	"sections": {
+		"description": "Plugin ini akan membantu Anda mengaktifkan semua fungsi Elementor Pro kecuali koneksi ke perpustakaan Elementor",
+		"changelog": "<h4>v1.0.2</h4><ul><li>Initial!</li></ul>"
+	},
+	"short_description": "Plugin ini akan membantu Anda mengaktifkan semua fungsi Elementor Pro kecuali koneksi ke perpustakaan Elementor",
+	"download_link": "#",
+	"tags": {},
+	"donate_link": "",
+	"banners": {
+		"low": "https://via.placeholder.com/772x250?text=Elementor%20Expert%20Activation",
+		"high": "https://via.placeholder.com/1544x500?text=Elementor%20Expert%20Activation"
+	}
+}
